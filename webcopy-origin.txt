@@ -1,0 +1,456 @@
+Uri: https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\rai-bot.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUbpfBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUbpfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUyovBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUyovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUypfBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUypfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVspfBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVspfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWAovBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWAovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyo_BJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyo_BJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsovBJ.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64bEN5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64bEN5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64cYN5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64cYN5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgL5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgL5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64SoK5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64SoK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgK5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgN5Xk.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\s\robotocondensed\v27\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgN5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://rai-bot.com/
+File Name: C:\Downloaded Web Sites\rai-bot.com\index-1.htm
+Content Type: text/html
+
+Uri: https://rai-bot.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZ4FiU8EoYiou3bIiKOPrCJTADsEA4LV8sNFX9HQyQUayC-waj_uBsr74k_aem_VUyzfpI3uXudAW5fzw0z4g
+File Name: C:\Downloaded Web Sites\rai-bot.com\index.htm
+Content Type: text/html
+
+Uri: https://rai-bot.com/pl/
+File Name: C:\Downloaded Web Sites\rai-bot.com\pl\index.htm
+Content Type: text/html
+
+Uri: https://rai-bot.com/ru/
+File Name: C:\Downloaded Web Sites\rai-bot.com\ru\index.htm
+Content Type: text/html
+
+Uri: https://rai-bot.com/ua/
+File Name: C:\Downloaded Web Sites\rai-bot.com\ua\index.htm
+Content Type: text/html
+
+Uri: https://rai-bot.com/wp-content/themes/rai/fonts/impact.ttf
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\fonts\impact.ttf
+Content Type: font/ttf
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/cases/logo-bloc.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\cases\logo-bloc.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/chatbot/ctat-container.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\chatbot\ctat-container.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/bg-mobile.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\bg-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/bg.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/bottom-border.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\bottom-border.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/close.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\close.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/left-border.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\left-border.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/line-item.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\line-item.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/marker-item.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\marker-item.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/marker.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\marker.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/common/menu.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\common\menu.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/hero/union-mobile.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\hero\union-mobile.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/hero/union.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\hero\union.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/list/container.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\list\container.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/themes/rai/images/video/video.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\images\video\video.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/themes/rai/scripts/ajax-scripts.js?ver=6.5.2
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\scripts\ajax-scripts.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-content/themes/rai/scripts/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\scripts\jquery.fancybox.min.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-content/themes/rai/scripts/script.js?v=11
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\scripts\script.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-content/themes/rai/scripts/slick.min.js
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\scripts\slick.min.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-content/themes/rai/scripts/videochat.js?v=02
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\scripts\videochat.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-content/themes/rai/style.css?v=17&ver=6.5.2
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\style.css
+Content Type: text/css
+
+Uri: https://rai-bot.com/wp-content/themes/rai/styles/jquery.fancybox.min.css?ver=6.5.2
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\styles\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://rai-bot.com/wp-content/themes/rai/styles/responsive.css?v=17&ver=6.5.2
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\styles\responsive.css
+Content Type: text/css
+
+Uri: https://rai-bot.com/wp-content/themes/rai/styles/slick.min.css?ver=6.5.2
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\themes\rai\styles\slick.min.css
+Content Type: text/css
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/advantages-mobile.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\advantages-mobile.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/advantages.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\advantages.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_10.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_10.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_11.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_11.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_12.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_12.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_4.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_4.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_5.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_5.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_6.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_6.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_7.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_7.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_8.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_8.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/case_9.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\case_9.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/chat-avatar.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\chat-avatar.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/chat-desktop.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\chat-desktop.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/chat-logo.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\chat-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/chat-mobile.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\chat-mobile.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/computer.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\computer.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/description.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\description.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/energy.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\energy.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/form.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\form.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/hand.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\hand.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/hero-section.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\hero-section.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/instagram.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/light.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\light.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/list.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\list.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/meta.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\meta.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/planet.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\planet.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/RAI.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\RAI.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/sound.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\sound.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/team_1.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\team_1.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/team_2.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\team_2.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/team_3.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\team_3.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/team_4.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\team_4.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/team_7.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\team_7.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/telegram.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/time.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\time.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/viber.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\viber.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/whats-app.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\whats-app.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/04/why-us.png
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\04\why-us.png
+Content Type: image/png
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/05/logotype.svg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\05\logotype.svg
+Content Type: image/svg+xml
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/07/Frame-312.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\07\Frame-312.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/07/img-1.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\07\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/07/img-2.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\07\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/07/img-3.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\07\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-content/uploads/2024/07/img.jpg
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-content\uploads\2024\07\img.jpg
+Content Type: image/jpeg
+
+Uri: https://rai-bot.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://rai-bot.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://rai-bot.com/wp-json/
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2F
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2Fpl%2F
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2Fpl%2F&format=xml
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2Fru%2F
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2Fru%2F&format=xml
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2Fua%2F
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frai-bot.com%2Fua%2F&format=xml
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://rai-bot.com/wp-json/wp/v2/pages/510
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\wp\v2\pages\510
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/wp/v2/pages/511
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\wp\v2\pages\511
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/wp/v2/pages/528
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\wp\v2\pages\528
+Content Type: application/json
+
+Uri: https://rai-bot.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\rai-bot.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://rai-bot.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\rai-bot.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.facebook.com/tr?id=415578471095446&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\rai-bot.com\tr
+Content Type: text/plain
+
